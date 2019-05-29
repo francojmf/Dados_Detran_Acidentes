@@ -11,3 +11,6 @@ Inicialmente é feita a conexão pelo Jupyter Notebook, que acessa o arquivo CSV
 Em seguida tiramos de nossa meta de busca algumas colunas que não seriam usadas, que permanecem no arquivo original.
 
 Fazemos uma busca por cidade e filtramos os 10 maiores valores, que gera uma nova tabela mostrando as 10 cidades com maior quantidade de acidentes ocorridos naquele ano.Com estes mesmos dados podemos gerar um gráfico de barras que permite visualizar melhor a proporção dos valores encontrados.
+
+Alunos: João Manoel Franco e André Luiz Rodrigues de Paulo
+5º ADS - FATEC SJC
